@@ -1,5 +1,7 @@
 # text-difficulty-analyzer
-Corpus-based text difficulty analyzer for language learners based on word dispersion; also a text corpus management framework powered by [Pymongo](https://anaconda.org/conda-forge/pymongo). Proposes a *Text Difficulty Scale* (TDS), with values ranging from 0 (least difficult) to 1 (most difficult). First proposed in a [master's thesis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479428E6) advised by Prof. [Heliana Ribeiro de Mello](http://www.letras.ufmg.br/profs/helianamello/) ([Poslin](http://www.poslin.letras.ufmg.br/), [UFMG](https://ufmg.br/)).
+Corpus-based text difficulty analyzer for language learners based on [*word dispersion*](http://www.linguistics.ucsb.edu/faculty/stgries/research/2008_STG_Dispersion_IJCL.pdf); also a text corpus management framework powered by [Pymongo](https://anaconda.org/conda-forge/pymongo). Calculates text difficulty through a *Text Difficulty Scale* (TDS), with values ranging from 0 (least difficult) to 1 (most difficult).
+
+First proposed in a [master's thesis](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479428E6) advised by Prof. [Heliana Ribeiro de Mello](http://www.letras.ufmg.br/profs/helianamello/) ([Poslin](http://www.poslin.letras.ufmg.br/), [UFMG](https://ufmg.br/)).
 
 ## Demo (Difficulty Highlighter)
 
