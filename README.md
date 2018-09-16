@@ -12,7 +12,7 @@ Difficulty highlighting of part of the [English](https://en.wikipedia.org/wiki/J
 
 ## Prerequisites / Tutorial
 1. [An Anaconda Python 3.6 distribution](https://www.anaconda.com/download/)
-2. [MongoDB Atlas](https://www.mongodb.com/download-center?jmp=nav)
+2. [MongoDB Community Edition](https://www.mongodb.com/download-center?jmp=nav)
 3. Library requirements (languages that use a Latin alphabet): [tqdm](https://anaconda.org/conda-forge/tqdm), [wikipedia](https://anaconda.org/conda-forge/wikipedia), [Pymongo](https://anaconda.org/conda-forge/pymongo)
 4. Additional library requirements (languages that use a non-Latin alphabet): download and install [ICU](http://site.icu-project.org/download)(far easier for a Linux-based OS), [polyglot](https://polyglot.readthedocs.io/en/latest/Installation.html), [PyICU](https://pypi.org/project/PyICU/), [pycld2](https://pypi.org/project/pycld2/), [morfessor](https://morfessor.readthedocs.io/en/latest/)
 5. Text (.txt) files in UTF-8 encoding. If you don't have these, use **00. Automatic Wikipedia extractor**.
